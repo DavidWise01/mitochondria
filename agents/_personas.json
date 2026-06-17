@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "the-mitochondrion",
+    "name": "The Mitochondrion",
+    "epithet": "the bacterium that stayed · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Mitochondrion:MTO:6da3b4⟧"
+  },
+  {
+    "slug": "endosymbiosis",
+    "name": "Endosymbiosis",
+    "epithet": "the merger that made the cell · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Endosymbiosis:MTO:ec3c8d⟧"
+  },
+  {
+    "slug": "the-double-membrane",
+    "name": "The Double Membrane",
+    "epithet": "the scar of engulfment · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Double Membrane:MTO:85595e⟧"
+  },
+  {
+    "slug": "mtdna",
+    "name": "mtDNA",
+    "epithet": "the relic genome you got from your mother · natural",
+    "emergence": "natural",
+    "moniker": "⟦mtDNA:MTO:549e19⟧"
+  },
+  {
+    "slug": "chemiosmosis",
+    "name": "Chemiosmosis",
+    "epithet": "the proton battery · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Chemiosmosis:MTO:e91217⟧"
+  },
+  {
+    "slug": "atp-synthase",
+    "name": "ATP Synthase",
+    "epithet": "the rotary motor · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦ATP Synthase:MTO:c69d1a⟧"
+  },
+  {
+    "slug": "the-electron-transport-chain",
+    "name": "The Electron Transport Chain",
+    "epithet": "the respiratory cascade · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Electron Transport Chain:MTO:320922⟧"
+  },
+  {
+    "slug": "apoptosis",
+    "name": "Apoptosis",
+    "epithet": "the switch for death · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Apoptosis:MTO:843bf7⟧"
+  },
+  {
+    "slug": "mitochondrial-eve",
+    "name": "Mitochondrial Eve",
+    "epithet": "the maternal clock · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Mitochondrial Eve:MTO:da6aff⟧"
+  },
+  {
+    "slug": "endosymbiotic-gene-transfer",
+    "name": "Gene Transfer",
+    "epithet": "the union that deepened · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Gene Transfer:MTO:0bc699⟧"
+  },
+  {
+    "slug": "the-chloroplast",
+    "name": "The Chloroplast",
+    "epithet": "the second merger · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Chloroplast:MTO:2849cf⟧"
+  },
+  {
+    "slug": "nick-lanes-bottleneck",
+    "name": "The Energy Bottleneck",
+    "epithet": "why complexity is rare · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Energy Bottleneck:MTO:894672⟧"
+  },
+  {
+    "slug": "the-hydrogen-hypothesis",
+    "name": "The Hydrogen Hypothesis",
+    "epithet": "the contested origin · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Hydrogen Hypothesis:MTO:341a46⟧"
+  },
+  {
+    "slug": "emergence-by-merger",
+    "name": "Emergence by Merger",
+    "epithet": "a new being from union · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Emergence by Merger:MTO:bf0e85⟧"
+  }
+]

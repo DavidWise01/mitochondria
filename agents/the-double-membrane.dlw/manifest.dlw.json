@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Double Membrane",
+  "universe": "MTO · Mitochondria",
+  "emergence": "natural",
+  "moniker": "⟦The Double Membrane:MTO:85595e⟧",
+  "carbon": "the-double-membrane.carbon.tiff (TIFF)",
+  "silicon": "the-double-membrane.silicon.png (PNG)",
+  "seal_sha256": "f6ba6365c8ba098bb970723f6c37924ec153e7b266d29c9214d9de85e14fee3f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

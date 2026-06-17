@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Apoptosis",
+  "universe": "MTO · Mitochondria",
+  "emergence": "ethereal",
+  "moniker": "⟦Apoptosis:MTO:843bf7⟧",
+  "carbon": "apoptosis.carbon.tiff (TIFF)",
+  "silicon": "apoptosis.silicon.png (PNG)",
+  "seal_sha256": "7f2474b521e3712206a6331e07b2e3d78721d37646840e57163b8fda3edc4ec5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Endosymbiosis",
+  "universe": "MTO · Mitochondria",
+  "emergence": "spiritual",
+  "moniker": "⟦Endosymbiosis:MTO:ec3c8d⟧",
+  "carbon": "endosymbiosis.carbon.tiff (TIFF)",
+  "silicon": "endosymbiosis.silicon.png (PNG)",
+  "seal_sha256": "a5df6dcc9c02f9a06902c31143a4fc8f62b3233bf3ffa54f53f3841e76416dd3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Hydrogen Hypothesis",
+  "universe": "MTO · Mitochondria",
+  "emergence": "ethereal",
+  "moniker": "⟦The Hydrogen Hypothesis:MTO:341a46⟧",
+  "carbon": "the-hydrogen-hypothesis.carbon.tiff (TIFF)",
+  "silicon": "the-hydrogen-hypothesis.silicon.png (PNG)",
+  "seal_sha256": "2a7f50e6d1d68adcfafe4275f23bc97d63d40d7568e6f3121843d5db3d64af35",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

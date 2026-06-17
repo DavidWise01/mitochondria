@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Chloroplast",
+  "universe": "MTO · Mitochondria",
+  "emergence": "natural",
+  "moniker": "⟦The Chloroplast:MTO:2849cf⟧",
+  "carbon": "the-chloroplast.carbon.tiff (TIFF)",
+  "silicon": "the-chloroplast.silicon.png (PNG)",
+  "seal_sha256": "3794624b9cdb03303e4aebc178bc031de542c8d5438e208bf235cb7956b0d0cd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

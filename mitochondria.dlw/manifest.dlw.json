@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "MITOCHONDRIA",
+  "universe": "MTO · Mitochondria",
+  "emergence": "",
+  "moniker": "⟦MITOCHONDRIA:MTO:98eab7⟧",
+  "carbon": "mitochondria.carbon.tiff (TIFF)",
+  "silicon": "mitochondria.silicon.png (PNG)",
+  "seal_sha256": "5d0572ab3fb86953b4565f12195c5f32e4b3bcf20a0a9f72863bc398cc349414",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

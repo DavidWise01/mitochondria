@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mitochondrion",
+  "universe": "MTO · Mitochondria",
+  "emergence": "natural",
+  "moniker": "⟦The Mitochondrion:MTO:6da3b4⟧",
+  "carbon": "the-mitochondrion.carbon.tiff (TIFF)",
+  "silicon": "the-mitochondrion.silicon.png (PNG)",
+  "seal_sha256": "bd17a7c6f6a9a023f1baa43ab7a6000154de0467e0dc94c2e7cd08b435e1aece",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

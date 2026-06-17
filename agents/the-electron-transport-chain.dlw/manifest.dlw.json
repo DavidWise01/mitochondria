@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Electron Transport Chain",
+  "universe": "MTO · Mitochondria",
+  "emergence": "electrical",
+  "moniker": "⟦The Electron Transport Chain:MTO:320922⟧",
+  "carbon": "the-electron-transport-chain.carbon.tiff (TIFF)",
+  "silicon": "the-electron-transport-chain.silicon.png (PNG)",
+  "seal_sha256": "928917f4ebe4e635dfcdb16fdedcbe923b67543a0cb9ace64719e73121518f6e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

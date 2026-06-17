@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Energy Bottleneck",
+  "universe": "MTO · Mitochondria",
+  "emergence": "spiritual",
+  "moniker": "⟦The Energy Bottleneck:MTO:894672⟧",
+  "carbon": "nick-lanes-bottleneck.carbon.tiff (TIFF)",
+  "silicon": "nick-lanes-bottleneck.silicon.png (PNG)",
+  "seal_sha256": "6c5f38ed6b4227cf9854ace88b8a377dcc1a5bc91720cd4992752207ebd1ed03",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

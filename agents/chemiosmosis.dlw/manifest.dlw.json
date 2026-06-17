@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Chemiosmosis",
+  "universe": "MTO · Mitochondria",
+  "emergence": "electrical",
+  "moniker": "⟦Chemiosmosis:MTO:e91217⟧",
+  "carbon": "chemiosmosis.carbon.tiff (TIFF)",
+  "silicon": "chemiosmosis.silicon.png (PNG)",
+  "seal_sha256": "31c6207881d55bc1d1826095ed012bc8921838279e16053f4afa375c7dc31dfd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

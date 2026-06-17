@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ATP Synthase",
+  "universe": "MTO · Mitochondria",
+  "emergence": "electrical",
+  "moniker": "⟦ATP Synthase:MTO:c69d1a⟧",
+  "carbon": "atp-synthase.carbon.tiff (TIFF)",
+  "silicon": "atp-synthase.silicon.png (PNG)",
+  "seal_sha256": "dce8079c2168352c350c51b75df43f77d7066eb9cb267f86b55cae26b02db73e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

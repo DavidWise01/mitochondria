@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "mtDNA",
+  "universe": "MTO · Mitochondria",
+  "emergence": "natural",
+  "moniker": "⟦mtDNA:MTO:549e19⟧",
+  "carbon": "mtdna.carbon.tiff (TIFF)",
+  "silicon": "mtdna.silicon.png (PNG)",
+  "seal_sha256": "7594d2711db6a677aa3db63bbf6d0e93fb37ff46649899ae57898095bf13c026",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
